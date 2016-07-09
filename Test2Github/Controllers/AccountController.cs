@@ -20,6 +20,7 @@ namespace Test2Github.Controllers
 
         public AccountController()
         {
+            ////asdfasd
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
